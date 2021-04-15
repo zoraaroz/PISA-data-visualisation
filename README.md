@@ -25,4 +25,7 @@ I chose to concentrate on four key insights/plots:
 * Distribution of dependent variables
 * Correlation matrix
 * Country ranking
+    * I added a grid here for better readability
 * PVs vs. parents education
+    * I separated this into two slides, one for the overall plot and one for the plot separated by performance category
+    * I changed the colors for the areas in the separated plots to a differential rather than a sequential color scheme (matching the colors of the country ranking plot)
