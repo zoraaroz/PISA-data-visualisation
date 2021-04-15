@@ -10,7 +10,7 @@ At first I chose a subset of variables that I was interested in. All data column
 
 ## Summary of Findings
 
-The measures for the school performance for each area are the so called plausible values (PVs). These are normally distributed. Looking at the correlation between the numerical variables of interest revealed that there were high correlations between the PVs but only low correlations between the PVa and the chosen independent variables. The only relationship with a noteable correlation was between the PVs and the social/economic status of students. There were some interesting (low) correlations between independent variables though.
+The measures for the school performance for each area are the so called plausible values (PVs). These are normally distributed. Looking at the correlation between the numerical variables of interest revealed that there were high correlations between the PVs but only low correlations between the PVs and most of the chosen independent variables. The only relationship with a noteable correlation was between the PVs and the economic, social and cultural status of students. There were some interesting (low) correlations between independent variables though.
 
 A scatterplot for the PVs and the learning times (with logarithmic axes for the learning times) showed that the answers were given in multiples of 15 minutes at the lower end of the scale while they were more distributed towards longer learning times.
 
@@ -20,8 +20,9 @@ Ordering the countries by PV for each area showed that the order of countries wa
 
 ## Key Insights for Presentation
 
-I chose to concentrate on three key insights/plots:
+I chose to concentrate on four key insights/plots:
 
+* Distribution of dependent variables
 * Correlation matrix
 * Country ranking
 * PVs vs. parents education
