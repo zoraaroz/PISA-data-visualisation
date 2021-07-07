@@ -20,6 +20,8 @@ Ordering the countries by PV for each area showed that the order of countries wa
 
 ## Key Insights for Presentation
 
+Have a look at the presentation.slides.html for a nice presentation of my findings.
+
 I chose to concentrate on four key insights/plots:
 
 * Distribution of dependent variables
